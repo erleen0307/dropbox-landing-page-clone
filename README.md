@@ -24,7 +24,8 @@ It accurately replicates the layout, design system, responsiveness, and interact
 
 ## 🛠 Tech Stack
 
-| `HTML5` | `Tailwind CSS` |
+- HTML5
+- Tailwind CSS
 
 ---
 
