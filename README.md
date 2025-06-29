@@ -13,12 +13,12 @@ It accurately replicates the layout, design system, responsiveness, and interact
 
 ## 🚀 Features
 
-- ✅ Fully responsive across all screen sizes (mobile, tablet, desktop)
-- ✅ Pixel-perfect layout using Tailwind CSS
-- ✅ Semantic HTML5 structure
-- ✅ Font Awesome icons integration
-- ✅ Accurate clone of original transitions & hover effects
-- ✅ Clean, scalable component structure
+- Fully responsive across all screen sizes (mobile, tablet, desktop)
+- Pixel-perfect layout using Tailwind CSS
+- Semantic HTML5 structure
+- Font Awesome icons integration
+- Accurate clone of original transitions & hover effects
+- Clean, scalable component structure
 
 ---
 
