@@ -7,7 +7,7 @@ It accurately replicates the layout, design system, responsiveness, and interact
 
 ## 🌐 Live Demo
 
-🔗 [View Live](https://erleen0307.github.io/dropbox-landing-page-clone/)
+🔗 Dropbox UI Clone - [View Live](https://erleen0307.github.io/dropbox-landing-page-clone/)
 
 ---
 
